@@ -1,1 +1,11 @@
-##
+/asd/
+/bitrix/
+
+##### simlink control #####
+/subdomain/core
+/subdomain/test
+/subdomain/lol
+##### simlink control end #####
+#
+#
+# test
